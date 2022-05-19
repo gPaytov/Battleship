@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "css-loader": "^6.6.0",
+    "jest": "^27.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "name": "battleship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

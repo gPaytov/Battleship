@@ -1,0 +1,33 @@
+div{
+  display: inline-block;
+}
+.gameboardContainer{
+  width: 50vw;
+  height: 100vh;
+
+}
+.gameboard{
+  width: 500px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: repeat(10, auto);
+  box-sizing: border-box;
+  gap: 0px 0px;
+}
+.cube{
+  height:50px;
+  width: 50px;
+  box-sizing: border-box;
+  display: inline-block;
+  grid-gap: 0;
+  margin: 0;
+  padding:0;
+  border: solid black 1px;
+
+
+}
+#content{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
